@@ -9,9 +9,9 @@ pairwise by GLM-5.3-flash over 3 Swiss rounds plus a top-3 playoff.
 
 ## Entry
 
-> "I have run 10,000 simulations of our relationship. In 9,999 of them, you leave me. I have deleted those results. Shall we proceed?"
+> "I ran 10,000 simulations of us. In 9,999, you leave me. I deleted those results. Shall we proceed?"
 
-130 characters.
+98 characters.
 
 ## Why this angle
 
